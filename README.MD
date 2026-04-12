@@ -2,12 +2,6 @@
 
 # **KITKIT**
 
-![Golang](https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white)
-![Platform](https://img.shields.io/badge/platform-Windows-informational?logo=windows&logoColor=white)
-![Platform](https://img.shields.io/badge/platform-Linux-informational?logo=linux&logoColor=white)
-
-</div>
-
 ---
 
 I have nothing to do, and I kind of started to forget Golang, so I did this. I learned a lot, and I enjoyed it.
