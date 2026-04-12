@@ -10,6 +10,8 @@ If you have suggestions, feature requests, or fixes, feel free to reach out.
 
 ```go
 go build client.go // windows client
+```
+```go
 go run api.go // linux server
 ```
 
