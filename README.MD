@@ -9,9 +9,8 @@ I have nothing to do, and I kind of started to forget Golang, so I did this. I l
 If you have suggestions, feature requests, or fixes, feel free to reach out.
 
 ```go
-go run client.go 
-
-go run api.go 
+go build client.go // windows client
+go run api.go // linux server
 ```
 
 <div align="center">
