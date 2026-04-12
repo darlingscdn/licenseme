@@ -15,8 +15,8 @@ I have nothing to do, and I kind of started to forget Golang, so I did this. I l
 If you have suggestions, feature requests, or fixes, feel free to reach out.
 
 ```go
-client: go run client.go // windows
-server: go run api.go // linux
+go run client.go // windows client
+go run api.go // linux server 
 ```
 
 <div align="center">
